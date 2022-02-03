@@ -8,13 +8,13 @@ Olá conclui o desafio do frontend mentor desenvolvendo está landing page, com 
 
 ### Tecnologias para o Desenvolvimento
 
--- Html 5
--- Css 3
--- Javascript Es6
+- Html 5
+- Css 3
+- Javascript Es6
 
 
-*Link do Website*
+### *Link do Website*
 
 <a href="">Clique aqui</a>
 
-*Desenvolvido por Luciano Garcia*
+### *Desenvolvido por Luciano Garcia*
