@@ -1,0 +1,51 @@
+/*RESETS*/
+
+:root{
+    --Soft-Blue: hsl(231, 69%, 60%);
+    --Soft-Red: hsl(0, 94%, 66%);
+
+    --white: #f4f4f4;
+    --Grayish-Blue: hsl(229, 8%, 60%);
+    --Very-Dark-Blue: hsl(229, 31%, 21%);
+    --links: #616169;
+}
+
+html,body{
+    scroll-behavior: smooth;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+}
+
+h2{
+    font-size: 1.8em;
+    color: var(--Very-Dark-Blue);
+}
+
+p{
+    font-size: 1em;
+    color: var(--Grayish-Blue);
+    font-weight: 500;
+
+    line-height: 1.6em;
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px 80px 0px 80px;
+
+    position: relative;
+}
